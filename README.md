@@ -1,8 +1,3 @@
-Perfeito, João! Aqui está o **README.md completo e pronto para você usar**, incluindo todas as melhorias, **sem o GIF**, e com a marcação “**(imagem aqui)**” para você adicionar depois, caso queira.
-
----
-
-```markdown
 # Calculadora de IMC em Java (JavaFX)
 
 Este é um projeto acadêmico de estudos em Java, que implementa uma **Calculadora de IMC (Índice de Massa Corporal)** com interface gráfica utilizando JavaFX.
