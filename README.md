@@ -76,7 +76,6 @@ IMC = peso / (altura \* altura)
 2. **Compilação:**
    ```bash
    javac --module-path "CAMINHO_PARA_JAVAFX/lib" --add-modules javafx.controls ProjetoCalculadoraIMC.java
-````
 
 3. **Execução:**
 
