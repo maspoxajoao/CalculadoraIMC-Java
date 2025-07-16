@@ -87,22 +87,6 @@ IMC = peso / (altura \* altura)
 
 ---
 
-## Melhorias futuras
-
-* [ ] Adicionar botão para limpar os campos de entrada.
-* [ ] Adicionar tema escuro para a interface.
-* [ ] Salvar histórico dos cálculos em arquivo `.txt` ou `.json`.
-* [ ] Criar gráficos simples com a evolução do IMC ao longo do tempo.
-* [ ] Exportar como `.jar` para facilitar a distribuição.
-
----
-
-## Baixar
-
-Você poderá futuramente baixar a versão compilada diretamente pela aba [Releases](https://github.com/seu-usuario/seu-repositorio/releases). *(Link será adicionado quando publicado)*
-
----
-
 ## Sobre
 
 Este projeto foi desenvolvido como parte dos meus estudos em Engenharia de Software, com foco em prática de:
