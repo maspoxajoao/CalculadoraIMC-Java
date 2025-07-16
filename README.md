@@ -6,7 +6,8 @@ Este é um projeto acadêmico de estudos em Java, que implementa uma **Calculado
 
 ## Demonstração
 
-**(imagem aqui)**  
+<img width="349" height="279" alt="image" src="https://github.com/user-attachments/assets/9532bf0f-dbc4-4a76-8f89-1bec728af6e3" />
+
 *Exemplo visual da calculadora em execução.*
 
 ---
